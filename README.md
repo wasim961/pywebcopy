@@ -1,4 +1,5 @@
 # PyWebCopy &copy; 6
+#An Amaging project
 
 [![PyPI](https://img.shields.io/pypi/v/pywebcopy.svg)](https://pypi.org/project/pywebcopy/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pywebcopy.svg?color=green)](https://pypi.org/project/pywebcopy/)
